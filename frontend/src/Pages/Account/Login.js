@@ -104,12 +104,7 @@ export default function Login() {
 
         <PWAInstallButton />
 
-        // <p className="text-center text-sm mt-4">
-        //   Don't have an account? contact Admin{" "}
-        //   // <Link to="/register" className="text-blue-600 underline hover:text-blue-800">
-        //   //   Register
-        //   // </Link>
-        // </p>
+        
 
       </div>
     </div>
